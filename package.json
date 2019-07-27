@@ -38,7 +38,7 @@
     "angular-uuid": "0.0.4",
     "angular-web-notification": "^1.2.22",
     "basic-auth": "^1.1.0",
-    "bitcore-lib": "^0.13.19",
+    "bitcore-lib": "^8.5.1",
     "body-parser": "^1.16.0",
     "bootbox": "^4.4.0",
     "bootstrap": "^3.3.7",
