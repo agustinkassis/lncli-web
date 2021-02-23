@@ -38,7 +38,7 @@
     "angular-uuid": "0.0.4",
     "angular-web-notification": "^1.2.22",
     "basic-auth": "^1.1.0",
-    "bitcore-lib": "^0.13.19",
+    "bitcore-lib": "^8.22.2",
     "body-parser": "^1.16.0",
     "bootbox": "^4.4.0",
     "bootstrap": "^3.3.7",
@@ -64,7 +64,7 @@
     "redirect-https": "^1.1.4",
     "socket.io": "^1.7.2",
     "socket.io-client": "^2.0.3",
-    "tingodb": "^0.5.1",
+    "tingodb": "^0.6.1",
     "winston": "^2.3.1",
     "winston-daily-rotate-file": "^1.4.4",
     "zbase32": "0.0.2"
